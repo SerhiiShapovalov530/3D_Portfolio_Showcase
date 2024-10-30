@@ -6,7 +6,7 @@ Welcome to my creative corner on the web! 🚀 As a fresher student passionate a
 
 ## 🎨 About Me
 
-Hey there! I'm Mohit, an Software Engineer and a Web developer with a penchant for turning ideas into visually captivating experiences. Armed with a vivid imagination and a deep curiosity for all things three-dimensional, I'm on a mission to breathe life into pixels and polygons. My passion for 3D design goes beyond the screen – I aim to create virtual realms that leave a lasting impact.
+Hey there! I'm Serhii Shapovalov, an Software Engineer and a Web developer with a penchant for turning ideas into visually captivating experiences. Armed with a vivid imagination and a deep curiosity for all things three-dimensional, I'm on a mission to breathe life into pixels and polygons. My passion for 3D design goes beyond the screen – I aim to create virtual realms that leave a lasting impact.
 
 ## 🌐 Visit Website
 
